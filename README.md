@@ -21,6 +21,12 @@ The version was redesigned from [jacobhil](https://github.com/jacobgil/pytorch-g
 
 3. The whole computation take less time, no GPU need, I delete the cuda
 
+
+所有实现的过程已经说明都已经附在[Grad_CAM_Pytorch_1.01_tutorial.ipynb](https://github.com/Stephenfang51/Grad_CAM_Pytorch-1.01/blob/master/Grad_CAM_Pytorch_1.01_tutorial.ipynb)
+
+
+
+
 **Original photo**
 
 <img src="https://github.com/Stephenfang51/Grad_CAM_Pytorch-1.01/blob/master/images/gorilla.jpg?raw=true" width=224>
