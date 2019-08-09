@@ -22,7 +22,7 @@ The version was redesigned from [jacobhil](https://github.com/jacobgil/pytorch-g
 3. The whole computation take less time, no GPU need, I delete the cuda
 
 
-所有实现的过程已经说明都已经附在[Grad_CAM_Pytorch_1.01_tutorial.ipynb](https://github.com/Stephenfang51/Grad_CAM_Pytorch-1.01/blob/Stephenfang51-patch-1/Grad_CAM_Pytorch_1_tutorialv2.ipynb)
+所有实现的过程已经说明都已经附在[Grad_CAM_Pytorch_1.01_tutorialv2.ipynb](https://github.com/Stephenfang51/Grad_CAM_Pytorch-1.01/blob/Stephenfang51-patch-1/Grad_CAM_Pytorch_1_tutorialv2.ipynb)
 
 
 
